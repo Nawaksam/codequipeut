@@ -1,0 +1,11 @@
+.card {
+    margin-top: 1em;
+    background-color: #353535;
+    width: 170px;
+    min-height:250px;
+    border-radius: 1em;
+}
+.card-img {
+    height: 200px;
+    width: 160px;
+}
